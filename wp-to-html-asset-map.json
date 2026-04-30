@@ -1,0 +1,14 @@
+{
+    "css|/wp-content/plugins/h5p/h5p-php-library/styles/h5p-fonts.css": "h5p-fonts.css",
+    "css|/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css": "h5p.css",
+    "css|/wp-content/plugins/static-snap/assets/css/frontend.css": "frontend.css",
+    "js|/wp-includes/js/jquery/jquery.min.js": "jquery.min.js",
+    "js|/wp-includes/js/jquery/jquery-migrate.min.js": "jquery-migrate.min.js",
+    "assets|/wp-content/uploads/imagelinks/1/config.json": "config.json",
+    "js|/wp-content/plugins/imagelinks-interactive-image-builder-lite/assets/js/loader.min.js": "loader.min.js",
+    "js|/wp-includes/js/dist/hooks.min.js": "hooks.min.js",
+    "js|/wp-includes/js/dist/i18n.min.js": "i18n.min.js",
+    "js|/wp-content/plugins/static-snap/assets/js/frontend.js": "frontend.js",
+    "assets|/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2": "Manrope-VariableFont_wght.woff2",
+    "assets|/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2": "FiraCode-VariableFont_wght.woff2"
+}
